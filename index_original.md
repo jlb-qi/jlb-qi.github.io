@@ -6,10 +6,10 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Knowledge Base (aka [Mímisbrunnr](https://en.wikipedia.org/wiki/M%C3%ADmisbrunnr))
+# Focus on writing good documentation
 {: .fs-9 }
 
-The starting point for all your data needs here at Komoot.
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -94,3 +94,13 @@ email, or any other method with the owners of this repository before making a ch
 Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+# Knowledge Base (aka [Mímisbrunnr](https://en.wikipedia.org/wiki/M%C3%ADmisbrunnr))
+
+
+
+Templates
+
+- https://chrisbobbe.github.io/jekyll-theme-prologue/
+- https://github.com/pmarsceill/jtd-remote
+- https://projectpages.github.io/project-pages/
