@@ -1,1 +1,1 @@
-# jlb-qi.github.io
+# Knowledge Base (aka [Mímisbrunnr](https://en.wikipedia.org/wiki/M%C3%ADmisbrunnr))
