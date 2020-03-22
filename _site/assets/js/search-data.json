@@ -8,13 +8,13 @@
   }
   ,"2": {
     "title": "Airflow",
-    "content": "Visualisations . How and when to use certain visualisation techniques, and how to inperpret them. . . Circle | . Circle .",
+    "content": "Airflow . How and when to use certain visualisation techniques, and how to inperpret them. . . Example | . Example .",
     "url": "http://localhost:4000/docs/toolkit/airflow/",
     "relUrl": "/docs/toolkit/airflow/"
   }
   ,"3": {
     "title": "Analytics Wiki",
-    "content": "Visualisations . What to look for when cleaning data and how to do it. . . .",
+    "content": "Analytics Wiki . What to look for when cleaning data and how to do it. . . .",
     "url": "http://localhost:4000/docs/analytics_wiki/analytics_wiki/",
     "relUrl": "/docs/analytics_wiki/analytics_wiki/"
   }
@@ -56,7 +56,7 @@
   }
   ,"10": {
     "title": "Dashboards",
-    "content": "Visualisations . How and when to use certain visualisation techniques, and how to inperpret them. . . Live Dashboards | . Live Dashboards . Title Description Link . Premium | Customer overview of Premium subscription engagment | Premium dash | . Live Experiments | Overview of experiments that are live | Experiment dash | . Engagement | Overview of customer engagement metrics | Engagement dash | .",
+    "content": "Dashboard node . How and when to use certain visualisation techniques, and how to inperpret them. . . Live Dashboards | . Live Dashboards . Title Description Link . Premium | Customer overview of Premium subscription engagment | Premium dash | . Live Experiments | Overview of experiments that are live | Experiment dash | . Engagement | Overview of customer engagement metrics | Engagement dash | .",
     "url": "http://localhost:4000/docs/dashboards/",
     "relUrl": "/docs/dashboards/"
   }
@@ -98,7 +98,7 @@
   }
   ,"17": {
     "title": "Jupyer Hub",
-    "content": "Visualisations . How and when to use certain visualisation techniques, and how to inperpret them. . . Circle | . Circle .",
+    "content": "Jupyter Hub . How and when to use certain visualisation techniques, and how to inperpret them. . . Circle | . Circle .",
     "url": "http://localhost:4000/docs/toolkit/jupyterhub/",
     "relUrl": "/docs/toolkit/jupyterhub/"
   }
@@ -140,7 +140,7 @@
   }
   ,"24": {
     "title": "Requests",
-    "content": "Visualisations . How and when to use certain visualisation techniques, and how to inperpret them. . . Step-by-step | . Step-by-step . Have you managed to gather all the relevant previous research done on the subject. | Have you drafted the Analytics Brief? | Once the brief is complete, we’ll create a ticket so that you can track the progress. |",
+    "content": "Make a request . How and when to use certain visualisation techniques, and how to inperpret them. . . Step-by-step | . Step-by-step . Have you managed to gather all the relevant previous research done on the subject. | Have you drafted the Analytics Brief? | Once the brief is complete, we’ll create a ticket so that you can track the progress. |",
     "url": "http://localhost:4000/docs/requests/requests/",
     "relUrl": "/docs/requests/requests/"
   }
@@ -158,7 +158,7 @@
   }
   ,"27": {
     "title": "Superset",
-    "content": "Visualisations . How and when to use certain visualisation techniques, and how to inperpret them. . . Circle | . Circle .",
+    "content": "Superset . How and when to use certain visualisation techniques, and how to inperpret them. . . Superset | . Superset .",
     "url": "http://localhost:4000/docs/toolkit/superset/",
     "relUrl": "/docs/toolkit/superset/"
   }

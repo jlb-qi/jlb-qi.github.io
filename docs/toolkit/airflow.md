@@ -5,7 +5,7 @@ parent: Toolkit
 nav_order: 2
 ---
 
-# Visualisations
+# Airflow
 {: .no_toc }
 
 
@@ -19,11 +19,4 @@ How and when to use certain visualisation techniques, and how to inperpret them.
 ---
 
 
-## Circle
-
-{::nomarkdown}
-<svg width="50" height="50">
-  <circle cx="25" cy="25" r="25" fill="purple" />
-</svg>
-{:/}
-
+## Example

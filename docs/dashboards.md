@@ -4,7 +4,7 @@ title: Dashboards
 nav_order: 3
 ---
 
-# Visualisations
+# Dashboard node
 {: .no_toc }
 
 

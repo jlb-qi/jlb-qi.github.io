@@ -5,7 +5,7 @@ parent: Toolkit
 nav_order: 1
 ---
 
-# Visualisations
+# Jupyter Hub
 {: .no_toc }
 
 
