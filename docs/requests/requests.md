@@ -18,11 +18,9 @@ How and when to use certain visualisation techniques, and how to inperpret them.
 ---
 
 
-## Example
+## Step-by-step
 
-{::nomarkdown}
-<svg width="50" height="50">
-  <circle cx="25" cy="25" r="25" fill="purple" />
-</svg>
-{:/}
+1. Have you managed to gather all the relevant previous research done on the subject.
+2. Have you drafted the Analytics Brief?
+3. Once the brief is complete, we'll create a ticket so that you can track the progress.
 

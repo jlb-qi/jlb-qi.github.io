@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Visualisations
-parent: Toolkit
-nav_order: 4
+title: FAQs
+has_children: true
+nav_order: 8
 ---
 
-# Visualisations
+# FAQs
 {: .no_toc }
 
 
-How and when to use certain visualisation techniques, and how to inperpret them.
+Common questions around data and Analytics?
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -19,7 +19,7 @@ How and when to use certain visualisation techniques, and how to inperpret them.
 ---
 
 
-## Circle
+## Example
 
 {::nomarkdown}
 <svg width="50" height="50">
