@@ -1,0 +1,973 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"measur",
+				"measurements"
+			],
+			[
+				"mqt",
+				"mqtt_channel"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"ad",
+				"advertiserid"
+			],
+			[
+				"ex",
+				"experiment_register"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docs/experiments/best_practice.md",
+			"settings":
+			{
+				"buffer_size": 750,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs/experiments/common_pitfalls.md",
+			"settings":
+			{
+				"buffer_size": 391,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs/experiments/results.md",
+			"settings":
+			{
+				"buffer_size": 2143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs/experiments/experiments.md",
+			"settings":
+			{
+				"buffer_size": 1461,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 885,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/experiments"
+	],
+	"file_history":
+	[
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/experiments/common_pitfalls.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/experiments/best_practice.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/_config.yml",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/analytics_wiki.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/dashboards.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/reports/reports.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/requests/requests.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/index.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/toolkit/superset.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/toolkit/airflow.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/toolkit/jupyterhub.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/reports/001_example_report_summary.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/reports/20200201_example_report_summary.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/visualisations.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/_includes/d3a/d3.html",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/_includes/d3a/d3_test.html",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/d3.html",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/marketing.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/kpi_wiki.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/toolkit/toolkit.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/utilities/utilities.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/customization.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/data_catalog.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/data_cleaning.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/faqs/faqs.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/faqs/reports Kopie.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/configuration.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/ui-components/ui-components.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/analytics_wiki/dashboards.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/_sass/custom/custom.scss",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/requests/data_cleaning.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/toolkit/visualisations.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/toolkit/requests.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/experiments/experiments.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/docs/navigation-structure.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/README.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/Gemfile.lock",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/just-the-docs.gemspec",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/_site/index.html",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/index_original.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/index Kopie.md",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/index.html",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/Rakefile",
+		"/Users/JLb/Documents/knowledge_base/jlb-qi.github.io/Gemfile",
+		"/private/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/jupyterlab-debug-mflgwqmu.log",
+		"/Volumes/pi's home/airflow/dags/mail_test.py",
+		"/Volumes/pi's home/airflow/airflow.cfg",
+		"/Users/JLb/Documents/GitHub/curiosities/02_scent_mapping/README.md",
+		"/Users/JLb/Documents/GitHub/rpi4/README.md",
+		"/Users/JLb/Documents/GitHub/curiosities/03_airbnb_in_berlin/README.md",
+		"/Users/JLb/Documents/komoot_me.json",
+		"/Volumes/pi's home/Mycodo/mycodo/inputs/mqtt_paho.py",
+		"/Volumes/pi's home/Documents/rau_pwm.sh",
+		"/Volumes/pi's home/Mycodo/mycodo/scripts/upgrade_commands.sh",
+		"/Volumes/pi's home/Mycodo-backup/mycodo/inputs/mqtt_paho.py",
+		"/Users/JLb/Desktop/camille/footer.php",
+		"/Volumes/boot/ssh",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/mqtt_paho.py",
+		"/private/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-7ry5sh/mqtt_backup.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-7ry5sh/mqtt_paho.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/utils/utils_input.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-dxg5yr/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-on2leb/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-_zp79u/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-5p5w00/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-oozf27/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-gkihyf/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-x57502/mqtt_paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-_0sc8w/TEMPLATE_OPTIONS_Measurements_Convert.html",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-rl6uls/mqtt-paho.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-fh2_cz/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/templates/pages/data_options/input_options/TEMPLATE_OPTIONS_Measurements_Convert.html",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/utils/database.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/controller_input.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/base_input.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-1n4w18/mycodo_daemon.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-hkbg1a/config.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-ynccxn/mqtt.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-m6yg3j/mycodo_daemon.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-t6tchu/mqtt.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-echqoy/mycodo_daemon.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_daemon.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_client.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/templates/pages/data_options/input.html",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/ttn_data_storage.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-wbkxuk/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/examples/minimal_humidity_temperature.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-puo8iz/mqtt.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-qoxddl/mycodo_daemon.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-cf__qg/mycodo_daemon.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/databases/utils.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/databases/models/input.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-hx3921/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/templates/pages/data_options/input_options/TEMPLATE_OPTIONS_TTN_data_storage.html",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/examples/example_all_options_temperature.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-5kljj5/utils_input.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-eso6zn/mqtt.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-r5uove/mqtt.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-xb0ly0/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/utils/utils_general.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/routes_general.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/forms/forms_input.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/routes_page.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-vczbmk/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/mycodo_flask/translations/fr/LC_MESSAGES/messages.po",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/mh_z19.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/utils/system_pi.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/mqtt.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/raspberrypi-waif_q/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/config.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/linux_command.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/scripts/restart_daemon.py",
+		"/var/folders/jb/d9k4b_n94g19yzjl8rj7pz540000gn/T/rsub-dj5xu0/mqtt.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/tests/manual_tests/test_gpio_DHTx.py",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/scripts/pandoc.css_style",
+		"/Users/JLb/Documents/GitHub/Mycodo/mycodo/inputs/custom_inputs/__init__.py",
+		"/Users/JLb/Documents/Arduino/libraries/MH-Z_CO2_Sensors/MHZ.h",
+		"/Users/JLb/Desktop/mtqq.py",
+		"/Users/JLb/Desktop/Adafruit_Sensor.h",
+		"/Users/JLb/Downloads/gpio_status_py/gpio_status.py",
+		"/Users/JLb/Desktop/seperate table extract.sql",
+		"/Users/JLb/Desktop/updated.query.sql",
+		"/Users/JLb/anaconda3/pkgs/pandas-0.23.0-py36h1702cab_0/lib/python3.6/site-packages/pandas/core/frame.py",
+		"/Users/JLb/Desktop/url.html",
+		"/Users/JLb/Downloads/index.html",
+		"/Users/JLb/Downloads/index (1).html",
+		"/Users/JLb/GitHub/mfs-analytica/BBI/investigations/003 - GIPO/Wealth of Nations.ipynb",
+		"/Users/JLb/GitHub/mfs-analytica/BBI/investigations/003 - GIPO/nations.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docs/experiments/best_practice.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "docs/experiments/common_pitfalls.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "docs/experiments/results.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1801,
+								1801
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"origPos":
+							[
+								0.0,
+								190.0
+							],
+							"remote_loading": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "docs/experiments/experiments.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1458,
+								1458
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "knowledge_base.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 762.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

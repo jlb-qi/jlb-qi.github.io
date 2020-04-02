@@ -9,7 +9,7 @@ permalink: /
 # Knowledge Base (aka [Mímisbrunnr](https://en.wikipedia.org/wiki/M%C3%ADmisbrunnr))
 {: .fs-9 }
 
-The starting point for all your data needs here at Komoot.
+The starting point for all your data analytics needs
 {: .fs-6 .fw-300 }
 
 [Search for data/analysis](#search){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
@@ -18,6 +18,12 @@ The starting point for all your data needs here at Komoot.
 
 ---
 
-## News
+## Changing the way people explore
 
-Details to follow...
+The network effect
+
+1. A set of routes and highlights leads to more customers
+2. Which leads to more contributers
+3. Which leades to more routes and highlights being generated
+4. Which leads to more customers
+5. etc...

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Experiment Best Practice
-nav_order: 1
+title: Common Pitfalls
+nav_order: 2
 parent: Experiments
 ---
 
-# Configuration
+# Common Pitfalls
 {: .no_toc }
 
 
@@ -18,3 +18,12 @@ Just the Docs has some specific configuration parameters that can be defined in 
 1. TOC
 {:toc}
 
+---
+
+
+## What to look for
+
+https://cxl.com/blog/testing-statistics-mistakes/
+
+
+[Statistical traps](https://cxl.com/blog/testing-statistics-mistakes/)

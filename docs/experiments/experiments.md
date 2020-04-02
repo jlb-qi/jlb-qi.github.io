@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Configuration
+# Hypothesis testing in Product Development
 {: .no_toc }
 
 
@@ -21,69 +21,23 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+## The Process
 
-## Site logo
+1. Design your experiment
+2. Configure and run your experiment
+3. Evaluate your experiment
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+## Freq vs Bayes
 
-## Search
+https://www.dynamicyield.com/blog/bayesian-testing/
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+||Hypothesis Testing |	Bayesian A/B Testing|
+|Knowledge of Baseline Performance |	Required 	|Not Required|
+|Intuitiveness |	Less, as p-value is a convoluted term| 	More, as we directly calculate the probability of A being better than B|
+|Sample size 	|Pre-defined 	|No need to pre-define|
+|Peeking at the data while the test runs |	Not allowed |	Allowed (with caution)|
+|Quick to make decisions |	Less, as it has more restrictive assumptions on distributions |	More, as it has less restrictive assumptions|
+|Representing uncertainty |	Confidence Interval (again, a convoluted interpretation which is often misunderstood) |	Highest Posterior Density Region – highly intuitive interpretation|
+|Declaring a winner |	When sample size is reached and p-value is below a certain threshold |	When either “probability to be best” goes above a threshold or the expected loss is below a threshold (in which case a “tie” can be declared between multiple variations)|
 
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
 
-```
-
-## Aux links
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
-
-## Heading anchor links
-
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
-
-## Footer content
-
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
-
-## Color scheme
-
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
