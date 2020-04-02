@@ -9,13 +9,12 @@ has_children: true
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+How to conduct experiments and test the performance of new/updated features.
 
-## Table of contents
+## Main Comporents
 {: .no_toc .text-delta }
 
-1. TOC
+1. Table of Contenst
 {:toc}
 
 ---

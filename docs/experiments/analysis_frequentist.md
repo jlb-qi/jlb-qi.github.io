@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Experiment Results
-nav_order: 1
+title: Experiment Results - Frequentist
+nav_order: 4
 parent: Experiments
 ---
 
@@ -52,6 +52,15 @@ and similarly we Toss 6 consecutive time and got result as P-value = 1.5% but we
 ### Power
 
 The power of a hypothesis test is the probability of making the correct decision if the alternative hypothesis is true. In general, for every hypothesis test we conduct, we will try to maximize the power. Typically, we desire the power to be 0.8 or greater.
+
+
+### Alternatives to the 'Traditional' approach
+
+We could use Bayes (see seperate section) which does have it's pros but obviously cons as well. Staying within the Frequentist paradigm we can use Sequential testing.
+
+[Rapid A/B-testing with Sequential Analysis](https://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/)
+
+[A/B test rigourously without losing your job](http://elem.com/~btilly/ab-testing-multiple-looks/part1-rigorous.html)
 
 
 ### References
