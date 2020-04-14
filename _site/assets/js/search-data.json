@@ -229,28 +229,28 @@
     "relUrl": "/docs/experiments/simulations_sampling/"
   }
   ,"39": {
+    "title": "Fork this site",
+    "content": "How to get set up with you own version of this site. . . What you’ll need | When you want to run locally | . What you’ll need . Ruby | Gem | Jekyll server | . When you want to run locally . Navigate to the site’s root folder | Run the command bundle exec jekyll serve | Note: if you see that warning warning: Using the last argument as keyword parameters is deprecated, you can ignore it. .",
+    "url": "http://localhost:4000/docs/site_setup/",
+    "relUrl": "/docs/site_setup/"
+  }
+  ,"40": {
     "title": "Superset",
     "content": "Superset . How and when to use certain visualisation techniques, and how to inperpret them. . . Superset | . Superset .",
     "url": "http://localhost:4000/docs/toolkit/superset/",
     "relUrl": "/docs/toolkit/superset/"
   }
-  ,"40": {
+  ,"41": {
     "title": "Tables",
     "content": "Tables . Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. . head1 head two three . ok | good swedish fish | nice | . out of stock | good and plenty | nice | . ok | good oreos | hmm | . ok | good zoute drop | yumm | . | head1 | head two | three | |:-|:|:| | ok | good swedish fish | nice | | out of stock | good and plenty | nice | | ok | good `oreos` | hmm | | ok | good `zoute` drop | yumm | .",
     "url": "http://localhost:4000/docs/ui-components/tables/",
     "relUrl": "/docs/ui-components/tables/"
   }
-  ,"41": {
+  ,"42": {
     "title": "Toolkit",
     "content": "Configuration . Just the Docs has some specific configuration parameters that can be defined in your Jekyll site’s _config.yml file. . . Site logo | Search | Aux links | Heading anchor links | Footer content | Color scheme | Google Analytics | . View this site’s _config.yml file as an example. . Site logo . # Set a path/url to a logo that will be displayed instead of the title logo: &quot;/assets/images/just-the-docs.png&quot; . Search . # Enable or disable the site search # Supports true (default) or false search_enabled: true # Enable support for hyphenated search words: search_tokenizer_separator: /[ s/]+/ . Aux links . # Aux links for the upper right navigation aux_links: &quot;Just the Docs on GitHub&quot;: - &quot;//github.com/pmarsceill/just-the-docs&quot; . Heading anchor links . # Heading anchor links appear on hover over h1-h6 tags in page content # allowing users to deep link to a particular heading on a page. # # Supports true (default) or false/nil heading_anchors: true . Footer content . # Footer content appears at the bottom of every page&#39;s main content footer_content: &quot;Copyright &amp;copy; 2017-2019 Patrick Marsceill. Distributed by an &lt;a href= &quot;https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt &quot;&gt;MIT license.&lt;/a&gt;&quot; . Color scheme . # Color scheme currently only supports &quot;dark&quot; or nil (default) color_scheme: &quot;dark&quot; . Preview dark color scheme . &lt;script type=”text/javascript” src=”{{ “/assets/js/dark-mode-preview.js” | absolute_url }}”&gt;&lt;/script&gt; | . See Customization for more information. . Google Analytics . # Google Analytics Tracking (optional) # e.g, UA-1234567-89 ga_tracking: UA-5555555-55 .",
     "url": "http://localhost:4000/docs/toolkit/toolkit/",
     "relUrl": "/docs/toolkit/toolkit/"
-  }
-  ,"42": {
-    "title": "Typography",
-    "content": "Typography Utilities . . Font size | Font weight | Line height | . Font size . Use the .fs-1 - .fs-10 to set an explicit font-size. . Class Small screen size font-size Large screen size font-size . .fs-1 | 9px | 10px | . .fs-2 | 11px | 12px | . .fs-3 | 12px | 14px | . .fs-4 | 14px | 16px | . .fs-5 | 16px | 18px | . .fs-6 | 18px | 24px | . .fs-7 | 24px | 32px | . .fs-8 | 32px | 38px | . .fs-9 | 38px | 42px | . .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . Font weight . Use the .fw-300 - .fw-700 to set an explicit font-size. . Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . Line height . Use the lh- classes to explicitly apply line height to text. . Class line-height value Notes . .lh-0 | 0 |   | . .lh-tight | 1.1 | Default for headings | . .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } .",
-    "url": "http://localhost:4000/docs/utilities/typography/",
-    "relUrl": "/docs/utilities/typography/"
   }
   ,"43": {
     "title": "Typography",
@@ -259,18 +259,24 @@
     "relUrl": "/docs/ui-components/typography/"
   }
   ,"44": {
+    "title": "Typography",
+    "content": "Typography Utilities . . Font size | Font weight | Line height | . Font size . Use the .fs-1 - .fs-10 to set an explicit font-size. . Class Small screen size font-size Large screen size font-size . .fs-1 | 9px | 10px | . .fs-2 | 11px | 12px | . .fs-3 | 12px | 14px | . .fs-4 | 14px | 16px | . .fs-5 | 16px | 18px | . .fs-6 | 18px | 24px | . .fs-7 | 24px | 32px | . .fs-8 | 32px | 38px | . .fs-9 | 38px | 42px | . .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . Font weight . Use the .fw-300 - .fw-700 to set an explicit font-size. . Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . Line height . Use the lh- classes to explicitly apply line height to text. . Class line-height value Notes . .lh-0 | 0 |   | . .lh-tight | 1.1 | Default for headings | . .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } .",
+    "url": "http://localhost:4000/docs/utilities/typography/",
+    "relUrl": "/docs/utilities/typography/"
+  }
+  ,"45": {
     "title": "UI Components",
     "content": "UI Components . To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. .",
     "url": "http://localhost:4000/docs/ui-components",
     "relUrl": "/docs/ui-components"
   }
-  ,"45": {
+  ,"46": {
     "title": "Utilities",
     "content": "Utilities . CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. .",
     "url": "http://localhost:4000/docs/utilities",
     "relUrl": "/docs/utilities"
   }
-  ,"46": {
+  ,"47": {
     "title": "Visualisations",
     "content": "Visualisations . How and when to use certain visualisation techniques, and how to inperpret them. . . Circle | Floweaver | D3 test | . {% include d3a/d3.html %} . Circle . Floweaver . D3 test .",
     "url": "http://localhost:4000/docs/analytics_wiki/visualisations/",
