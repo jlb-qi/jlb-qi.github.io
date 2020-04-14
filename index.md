@@ -18,6 +18,36 @@ The starting point for all your data analytics needs
 
 ---
 
+# What's our contribution?
+
+- 
+
+Metrics Definition
+Data Specifications
+Deep Dives
+Dashboards
+Experiments
+
+ identifying key metrics and support building
+executive-facing dashboards to track progress.
+● Identify opportunities for enhancing product performance and ideate solutions for
+better user experience.
+● Take the quality and impact of team’s work to the wider audience by exploring
+untapped sources of data, utilizing new analytical techniques and visualizations.
+● Tracking concepts: Put & lead a structure process of determining what needs to be
+tracked and measured for new product features.
+● Data quality: Put and lead a structure process of data auditing, QA and
+alerting/escalation tools.
+● Product Strategy: Evaluate and define product and business KPIs and metrics for the
+consumer product across web & mobile apps.
+● Data visualization: Plan for & lead execution to democratize data access and visibility
+by building and socializing different performance dashboards & reports across all
+product teams and product stakeholders
+● Data Analysis & Discovery: oversee deep dive analysis to key stakeholders across all
+teams and products, in order to develop the next hypotheses for our product
+optimization strategy and translating numbers into actionable product
+recommendations
+
 ## Changing the way people explore
 
 The network effect

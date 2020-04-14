@@ -28,10 +28,12 @@ How to evaluate the performance of campaigns
 - Revenue per Conversion 
 
 
-[Maximizing the revenue on ad spend](https://www.smartly.io/blog/tutorial-how-we-productized-bayesian-revenue-estimation-with-stan)
 
 ## Baysian evaluations
 
+- [Bayes for Revenue Analysis](https://medium.com/@jireh/revenue-analysis-a-bayesian-approach-867bbd2c979c)
+
+- [Maximizing the revenue on ad spend](https://www.smartly.io/blog/tutorial-how-we-productized-bayesian-revenue-estimation-with-stan)
 
 
 

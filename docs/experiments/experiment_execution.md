@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Experiment Execution
+title: Execution
 nav_order: 2
 parent: Experiments
 ---

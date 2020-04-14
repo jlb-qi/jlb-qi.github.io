@@ -26,6 +26,11 @@ How to conduct experiments and test the performance of new/updated features.
 2. Configure and run your experiment
 3. Evaluate your experiment
 
+## FAQs
+
+- What sample size do I need?
+- How long will that take?
+
 ## Freq vs Bayes
 
 https://www.dynamicyield.com/blog/bayesian-testing/

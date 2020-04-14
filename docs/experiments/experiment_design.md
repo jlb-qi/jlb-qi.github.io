@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Experiment Design
+title: Design
 nav_order: 1
 parent: Experiments
 ---
